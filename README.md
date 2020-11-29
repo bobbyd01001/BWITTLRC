@@ -22,7 +22,7 @@ just edit the tlrc.py
         
         cd BWITTLRC
         
-        unzip file
+        unzip tlrc_app_package.zip
 
 3. [Optional] Create a virtual environment for testing. Skip this step if you want to install it globaly on your system.
 
@@ -40,7 +40,7 @@ just edit the tlrc.py
 
         python3 setup.py install --user
         
-        At this point LXDUI should be installed and ready to start.
+        At this point TLRC should be installed and ready to start.
 
 
 
