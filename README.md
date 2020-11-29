@@ -34,6 +34,15 @@ just edit the tlrc.py
         cd tlrc_app_package
 
         python3 setup.py install --user
+        
+        At this point LXDUI should be installed and ready to start.
+
+
+
+To start the app run: python3 tlrc.py start
+
+
+The app will open a gui window showing other options to choose
 
 
 Created by JC Beasley
