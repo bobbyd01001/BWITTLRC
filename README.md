@@ -18,7 +18,11 @@ just edit the tlrc.py
 
 2. Clone TLRC from the GitHub repo:
 
-        git clone https://github.com/bobbyd01001/BWITTLRC
+        git clone https://github.com/bobbyd01001/BWITTLRC.git
+        
+        cd BWITTLRC
+        
+        unzip file
 
 3. [Optional] Create a virtual environment for testing. Skip this step if you want to install it globaly on your system.
 
