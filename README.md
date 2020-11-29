@@ -41,7 +41,7 @@ just edit the tlrc.py
 
 5. Start Application
         
-        To start the app run: python3 tlrc.py start
+        To start the app run: sudo python3 tlrc.py
 
         The app will open a gui window showing other options to choose
 
