@@ -34,3 +34,7 @@ just edit the tlrc.py
         cd tlrc_app_package
 
         python3 setup.py install --user
+
+
+Created by JC Beasley
+for questions contact beaswork@gmail.com
