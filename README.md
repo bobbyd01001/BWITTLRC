@@ -4,6 +4,7 @@ This python package was created for individual independant contractor to have th
 ability to document and track projects that you have worked on. Once you have gathered enough 
 information this data is presented in visual graphs that help you visualize performance and 
 see where you are getting most of your work from. This does a couple of things for you.
+***Has been tested on Ubuntu 20.04***
 
 1. Track and Log Projects
 2. Geo Locate Project Locations
